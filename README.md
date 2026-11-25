@@ -16,8 +16,6 @@
 
 Sou **Caio da Silva Martins**. Por aqui, compartilho projetos que passam por análise de dados, modelagem de bancos e programação — sempre com curiosidade para entender problemas e transformar ideias em soluções.
 
-> Dados contam histórias. Código ajuda a explorá-las.
-
 ## Ferramentas por trás das ideias
 
 <div align="center">
