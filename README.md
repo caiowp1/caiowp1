@@ -29,7 +29,7 @@ Sou **Caio da Silva Martins**. Por aqui, compartilho projetos que passam por an√
 
 </div>
 
-## Ideias que ganharam forma
+## Projetos em destaque 
 
 <table>
 <tr>
