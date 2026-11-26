@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0b1026,50:583c96,100:21c8c3&text=CAIO%20MARTINS&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=DATA%20%E2%80%A2%20CODE%20%E2%80%A2%20DISCOVERY&descAlignY=62&descSize=16" alt="Caio Martins — Data, Code, Discovery" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0b1026,50:583c96,100:21c8c3&text=CAIO%20MARTINS&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=DATA%20%E2%80%A2%20CODE%20%E2%80%A2%20DISCOVERY&descAlignY=62&descSize=16" alt="Caio Martins" />
 
 `DADOS` · `DESENVOLVIMENTO`
 
