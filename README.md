@@ -2,9 +2,9 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0b1026,50:583c96,100:21c8c3&text=CAIO%20MARTINS&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=DATA%20%E2%80%A2%20CODE%20%E2%80%A2%20DISCOVERY&descAlignY=62&descSize=16" alt="Caio Martins — Data, Code, Discovery" />
 
-`CIÊNCIA DE DADOS` · `BANCO DE DADOS` · `DESENVOLVIMENTO`
+`DADOS` · `DESENVOLVIMENTO`
 
-**Explorando dados, construindo projetos e aprendendo a cada linha de código.**
+**Construindo projetos e aprendendo a cada linha de código.**
 
 [GitHub](https://github.com/caiowp1) · [Projetos](https://github.com/caiowp1?tab=repositories)
 
