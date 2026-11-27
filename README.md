@@ -66,11 +66,7 @@ Explorando cálculo de determinantes e o teorema de Laplace através da programa
 </tr>
 </table>
 
-## O caminho até aqui
-
 <div align="center">
-
-![Gráfico de atividade no GitHub](https://github-readme-activity-graph.vercel.app/graph?username=caiowp1&bg_color=0d1117&color=bdacff&line=4ddbd2&point=ffffff&area=true&hide_border=true)
 
 ✦ ───────────────────────────── ✦
 
